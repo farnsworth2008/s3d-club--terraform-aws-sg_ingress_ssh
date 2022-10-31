@@ -14,5 +14,5 @@ Recently completed and planned work is tracked here.
 ## [0.1.12](.) to [0.1.13](.)
 - Improved descriptions of variables and outputs
 
-## [0.1.14-1000](.)
-- Changed to use `-*` as suffix for pre-release versions
+## [0.1.14-s3d-1001](.)
+- Changed to use `-x` as suffix for pre-release versions
